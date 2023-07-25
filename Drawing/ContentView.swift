@@ -28,6 +28,12 @@ struct ContentView: View {
                 } label: {
                     Text("Trapezoid View")
                 }
+                
+                NavigationLink {
+                    CheckerboardView()
+                } label: {
+                    Text("Checkerboard View")
+                }
             }
             .navigationTitle("Drawing")
         }

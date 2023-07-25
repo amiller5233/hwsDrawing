@@ -14,6 +14,7 @@
 		D8AB5C892A6F68190033AB36 /* FlowerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AB5C882A6F68190033AB36 /* FlowerView.swift */; };
 		D8AB5C8B2A6F689E0033AB36 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AB5C8A2A6F689E0033AB36 /* CircleView.swift */; };
 		D8AB5C8D2A6F6C130033AB36 /* TrapezoidView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AB5C8C2A6F6C130033AB36 /* TrapezoidView.swift */; };
+		D8AB5C8F2A6F6E050033AB36 /* CheckerboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AB5C8E2A6F6E050033AB36 /* CheckerboardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		D8AB5C882A6F68190033AB36 /* FlowerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowerView.swift; sourceTree = "<group>"; };
 		D8AB5C8A2A6F689E0033AB36 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 		D8AB5C8C2A6F6C130033AB36 /* TrapezoidView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrapezoidView.swift; sourceTree = "<group>"; };
+		D8AB5C8E2A6F6E050033AB36 /* CheckerboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckerboardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				D8AB5C7C2A6A4A4C0033AB36 /* ContentView.swift */,
 				D8AB5C8A2A6F689E0033AB36 /* CircleView.swift */,
 				D8AB5C8C2A6F6C130033AB36 /* TrapezoidView.swift */,
+				D8AB5C8E2A6F6E050033AB36 /* CheckerboardView.swift */,
 				D8AB5C882A6F68190033AB36 /* FlowerView.swift */,
 				D8AB5C7E2A6A4A4D0033AB36 /* Assets.xcassets */,
 				D8AB5C802A6A4A4D0033AB36 /* Preview Content */,
@@ -151,6 +154,7 @@
 				D8AB5C7D2A6A4A4C0033AB36 /* ContentView.swift in Sources */,
 				D8AB5C892A6F68190033AB36 /* FlowerView.swift in Sources */,
 				D8AB5C7B2A6A4A4C0033AB36 /* DrawingApp.swift in Sources */,
+				D8AB5C8F2A6F6E050033AB36 /* CheckerboardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
